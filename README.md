@@ -152,3 +152,22 @@ The application includes complete navigation functionality:
 - **Step Navigation**: Previous/Next buttons between form steps
 - **Progress Indicator**: Shows current step with completed steps highlighted
 
+
+
+<img width="2598" height="1552" alt="image" src="https://github.com/user-attachments/assets/d43ac052-b312-4308-8dcb-a7bf783c5b0a" />
+
+<img width="2792" height="1514" alt="image" src="https://github.com/user-attachments/assets/df1c843c-671e-4b6d-9143-b19174c672ae" />
+
+<img width="2996" height="1552" alt="image" src="https://github.com/user-attachments/assets/e7b92ac0-dee9-44fc-9c2d-d9398a6b9ce6" />
+
+<img width="2996" height="1552" alt="image" src="https://github.com/user-attachments/assets/7ab56ec9-09f3-4631-aba7-adbc0cd32149" />
+
+<img width="2996" height="1630" alt="image" src="https://github.com/user-attachments/assets/511dd2fe-4d1e-4cab-a682-03278949a8a7" />
+
+<img width="2996" height="1630" alt="image" src="https://github.com/user-attachments/assets/51763940-0d25-49e8-9809-1d26b25222c9" />
+
+
+
+
+
+
